@@ -10,6 +10,8 @@ import java.util.Scanner;
  *
  * @author hieuvannguyen
  */
+//hieu dep trai
+
 class Node {
 
     int data;
