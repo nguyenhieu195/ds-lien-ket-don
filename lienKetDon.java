@@ -70,7 +70,7 @@ class Ham {
             p = save;
         }
         head = temp;
-        //    1 2 3 4 
+        
     }
 
     public void kTraTangDan() {
